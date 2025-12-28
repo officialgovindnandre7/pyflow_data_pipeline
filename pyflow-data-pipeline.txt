@@ -1,0 +1,22 @@
+pyflow-data-pipeline/
+│
+├── data/
+│   ├── raw/
+│   │   └── users_raw.csv
+│   ├── processed/
+│   │   ├── users_clean.csv
+│   │   └── users_rejected.csv
+│
+├── pipeline/
+│   ├── __init__.py
+│   ├── ingest.py        # Member 1
+│   ├── validate.py      # Member 2
+│   ├── transform.py     # Member 3
+│   ├── load.py          # Member 4
+│   └── logger.py        # Member 5
+│
+├── main.py              # You
+├── config.py
+├── requirements.txt
+├── README.md
+└── .gitignore
