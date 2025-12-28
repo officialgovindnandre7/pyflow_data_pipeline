@@ -1,0 +1,21 @@
+user_id,name,age,city
+1,Amit,25,Pune
+2,Rahul,not_available,Mumbai
+3,Sneha,30,Chennai
+4,,28,Bangalore
+5,Kiran,45,Hyderabad
+6,Pooja,-5,Pune
+7,Ramesh,abc,Delhi
+8,Neha,29,
+9,Arjun,120,Mumbai
+10,Meera,34,Pune
+11,Sameer, ,Chennai
+12,Kavita,27,Pune
+13,John,33,New York
+14,Asha,0,Nashik
+15,Vijay,41,Indore
+16,Anita,22,Pune
+17,,35,Mumbai
+18,Sunil,55,Jaipur
+19,Farah,not_known,Delhi
+20,Rohit,31,Bangalore
